@@ -11,6 +11,6 @@ and open the template in the editor.
     </head>
     <body>
        hello word 
-        -
+        --------
     </body>
 </html>
