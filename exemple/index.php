@@ -10,6 +10,6 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-       hello word 
-    </body>rgrtt
+       hello word rgrtt
+    </body>
 </html>
